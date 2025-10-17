@@ -15,8 +15,7 @@ S.No.	Components	Range	Quantity
 
 THEORY:
 KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-KCL:
-Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+KCL: Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
 PROCEDURE:
@@ -43,21 +42,29 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL: <img width="538" height="599" alt="image" src="https://github.com/user-attachments/assets/818e4917-1625-4c04-a538-ab4f66674042" />
+a.   KVL:
+     <br/>
+     <img width="538" height="599" alt="image" src="https://github.com/user-attachments/assets/818e4917-1625-4c04-a538-ab4f66674042" />
  
 
 
-b.  KCL: <img width="540" height="533" alt="image" src="https://github.com/user-attachments/assets/db0b3b0a-d355-4c85-9622-faf7a7587efb" />
+b.  KCL: 
+    <br/>
+    <img width="540" height="533" alt="image" src="https://github.com/user-attachments/assets/db0b3b0a-d355-4c85-9622-faf7a7587efb" />
  
 
 Calculation:
 
-a.   KVL: <img width="540" height="550" alt="image" src="https://github.com/user-attachments/assets/ddcf76ef-6e54-4b42-9c0d-bcef1f5663f8" />
+a.   KVL: 
+   <br/>
+   <img width="540" height="550" alt="image" src="https://github.com/user-attachments/assets/ddcf76ef-6e54-4b42-9c0d-bcef1f5663f8" />
 
  
 
 
-b.  KCL: <img width="540" height="539" alt="image" src="https://github.com/user-attachments/assets/e4902c88-3970-44b9-836a-52c9fb43a6b8" />
+b.  KCL:
+    <br/>
+    <img width="540" height="539" alt="image" src="https://github.com/user-attachments/assets/e4902c88-3970-44b9-836a-52c9fb43a6b8" />
 
 
 
@@ -65,12 +72,16 @@ b.  KCL: <img width="540" height="539" alt="image" src="https://github.com/user-
 
 Tabulation:
 
-a.   KVL: <img width="540" height="511" alt="image" src="https://github.com/user-attachments/assets/26170ccb-fe32-479c-91f3-6731dbb38a05" />
+a.   KVL: 
+     <br/>
+     <img width="540" height="511" alt="image" src="https://github.com/user-attachments/assets/26170ccb-fe32-479c-91f3-6731dbb38a05" />
 
  
 
 
-b.  KCL: <img width="540" height="517" alt="image" src="https://github.com/user-attachments/assets/3539c867-615c-466e-8416-0eac3e3dcc30" />
+b.  KCL: 
+    <br/>
+    <img width="540" height="517" alt="image" src="https://github.com/user-attachments/assets/3539c867-615c-466e-8416-0eac3e3dcc30" />
 
 
 
